@@ -7,7 +7,7 @@
     margin:0px auto;
     padding:50px 0px 50px 0px;
     border-bottom: 1px ridge;
-    min-height: 400px;
+    min-height: 200px;
 }
 
 .footer{
@@ -33,5 +33,11 @@ body{
 }
 .navbar-dark{
     background-color:#512DA8 ;
+}
+.anchor {
+    display: block;
+    height: 50px;
+    margin-top: -50px;
+    visibility: hidden;
 }
 
