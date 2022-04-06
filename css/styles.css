@@ -50,4 +50,8 @@ body{
     color:rebeccapurple;
     cursor: pointer;
 }
+#Navbar .navbar-text a:hover{
+    color:goldenrod;
+    cursor: pointer;
+}
 
