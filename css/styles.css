@@ -46,4 +46,8 @@ body{
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+#accordion a:hover{
+    color:rebeccapurple;
+    cursor: pointer;
+}
 
