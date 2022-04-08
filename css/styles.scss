@@ -11,6 +11,7 @@ $carousel-item-height: 200px;
 	padding: $pad-up-dn $pad-left-right;
 }
 
+
 .row-header{
     @include zero-margin(0px,0px);
 }
@@ -73,4 +74,17 @@ body{
     position: absolute;
     bottom: 0px;
     z-index: 1;
+}
+
+.modal-header{
+    background-color:$background-dark ;
+    color: floralwhite;
+    button{
+        color:floralwhite;
+        text-shadow: none;
+        opacity: 1;
+    }
+}
+.modal-body{
+    background-color:$background-pale;
 }
